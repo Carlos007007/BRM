@@ -11,7 +11,7 @@ define("USER", "root");
 define("SERVER", "localhost");
 
 //Nombre de la base de datos
-define("BD", "librarysystem");
+define("BD", "");
 
 //Contraseña de myqsl
 define("PASS", "");
